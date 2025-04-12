@@ -1,35 +1,73 @@
-<h1 align="center">Hi 👋, I'AM MANOJ DAS</h1>
-<h3 align="center">A passionate frontend developer from India Assam and my home kamrup</h3>
+<h1 align="center">✨ Welcome to Manoj Das's Universe ✨</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanojdas&label=Profile%20views&color=0e75b6&style=flat" alt="mmanojdas" /> </p>
+<div align="center">
+  <!-- Background Animation -->
+  <video autoplay muted loop style="width: 100%; height: auto; object-fit: cover; position: absolute; top: 0; left: 0; z-index: -1;">
+    <source src="https://cdn.glitch.global/42b61762-5226-4a25-9965-d2e029507356/6%20(1).MP4?v=1727712312654" type="video/mp4">
+  </video>
 
-- 🔭 I’m currently working on [TELIGRAM](https://t.me/+huMINB3nupxlOTI1)
+  <!-- Profile Picture -->
+  <img src="https://cdn.glitch.global/3e7180d8-1988-4ee3-97b6-afaf77a27e11/20241001_151713.png?v=1727776104344" alt="Manoj Das Profile" style="border-radius: 50%; width: 150px; height: 150px; margin: 20px auto; box-shadow: 0 0 15px rgba(255, 255, 255, 0.8);">
 
-- about my current love life **NO GF BUT I LOVE ONLY ONE GIRL THE NAME IS N... SHE IS SINGLE AND (0)BOYFRIEND I DONT KNOW WHY BUT I HAPPY**
+  <!-- Animated Text -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1500&color=00FFDD&width=1000&height=100&lines=Innovator+%7C+Technologist+%7C+Problem+Solver;Welcome+to+My+Digital+World!;Unleash+the+Power+of+Code!">
+  </p>
+</div>
 
-- MY AGE **19+**
+---
 
-- MY SKILL **ATHLETIC , ETHICAL HACKING ,**
+## 👤 **About Manoj Das**
+- **Location**: 🇮🇳 India, Assam  
+- **Age**: 19+  
+- **Best Friend**: [Kopil Boraha 🗿](https://t.me/Kopilb)
 
-- my best friend - KOPIL BORA [https://t.me/Kopilb](https://t.me/Kopilb)
+---
 
-- MY MAIN CHANNEL [https://t.me/+huMINB3nupxlOTI1](https://t.me/+huMINB3nupxlOTI1)
+## 💻 **Skills and Expertise**
+- **Ethical Hacking**  
+- **Web Development**  
+- **Termux Tools Creation**  
+- **Web Scraping**  
+- **WiFi Hacking**  
+- **Sports Enthusiast**: 100m & 200m  
+- **Focused Loyalty**: Dedicated to one special person name is N.J 💖👩‍❤️‍💋‍👨
 
-- ABOUT ME **my fav DEVID ( GOGINS, ROBART T KYOSHAKI,PETER THAIL,) ( MOVIE) - JOHN WICK , KGF ,I WANT TO EAT YOUR PANCREAS ,**
+---
 
-- 📫 How to content me **TG - @MANOJOYT ( GMAIL - GAMINGDAS124@GMAIL.COM )**
+## 🌌 **My Channels**
+✨ I'm proud to manage these communities:  
+- **[Indian Coder](https://t.me/+huMINB3nupxlOTI1)** 🛠️  
+- **[Indian Course](https://t.me/+huMINB3nupxlOTI1)** 🎓  
+- **[Premium Codes](https://t.me/+huMINB3nupxlOTI1)** 💎  
 
-- MY YOUTUBE CHANNEL [CURRENTLY UNDER THE COPYRIGHT ISSU](CURRENTLY UNDER THE COPYRIGHT ISSU)
+---
 
-- WHAT IS IMPORTANT FOR ME **2 PEOPLE MY MOM AND MY LOVE N.J THIS TOW PEOPLE IS MY EVERYTHING IF YOU HURT ME THEN I DESTROY YOU**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manoj_das0080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manoj_das0080" height="30" width="40" /></a>
-<a href="https://fb.com/manoj das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manoj das" height="30" width="40" /></a>
-<a href="https://instagram.com/manoj_das0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manoj_das0000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/spidy 2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spidy 2.0" height="30" width="40" /></a>
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojdas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojdas&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 🎯 **Goals**
+- Build advanced tools for ethical hacking.  
+- Innovate web frameworks for better user experience.  
+- Create impactful, open-source tools.  
+
+---
+
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://t.me/+huMINB3nupxlOTI1"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/manojdas"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+## 💬 **Inspiration**
+> _"Dream big, code hard, and innovate boldly."_  
+
+---
