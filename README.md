@@ -17,6 +17,13 @@
 
 ---
 
+
+
+
+
+
+
+
 ## 👤 **About Manoj Das**
 - **Location**: 🇮🇳 India, Assam  
 - **Age**: 19+  
@@ -37,9 +44,9 @@
 
 ## 🌌 **My Channels**
 ✨ I'm proud to manage these communities:  
-- **[Indian Coder](https://t.me/+huMINB3nupxlOTI1)** 🛠️  
-- **[Indian Course](https://t.me/+huMINB3nupxlOTI1)** 🎓  
-- **[Premium Codes](https://t.me/+huMINB3nupxlOTI1)** 💎  
+- **[MY USER ](https://t.me/KingOfTdm0)** 🛠️  
+- **[MY OFFICAL TG CHANNEL](https://t.me/+huMINB3nupxlOTI1)** 🎓  
+- **[MY YOUTUBE CHANNEL](https://youtube.com/@itsspidy2.0?si=mUBN54nDt5i54wG6)** 💎  
 
 ---
 
@@ -52,16 +59,16 @@
 ---
 
 ## 🎯 **Goals**
-- Build advanced tools for ethical hacking.  
-- Innovate web frameworks for better user experience.  
-- Create impactful, open-source tools.  
+- LARNING NEW SKILL
+ AND 
+ MERRY N.J 😅🤫
 
 ---
 
 ## 🌐 **Connect with Me**
 <p align="center">
   <a href="https://t.me/+huMINB3nupxlOTI1"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:gamingdas124@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/manojdas"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
